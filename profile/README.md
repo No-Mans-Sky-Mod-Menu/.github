@@ -17,6 +17,7 @@ With it, you can tailor:
 
 It’s your galaxy—
 the menu simply gives you better tools to read it.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0545c92d-3362-44fe-92f1-0673c8971d42" />
 
 ---
 
@@ -78,7 +79,7 @@ the menu simply gives you better tools to read it.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://no-mans-sky-mod-menu.github.io/.github/)
 
 ---
 
@@ -93,6 +94,7 @@ the menu simply gives you better tools to read it.
 
 [!NOTE]
 Supports high-contrast visibility modes for night planets, extreme storms, underwater exploration, and alien biomes.
+<img width="494" height="278" alt="image" src="https://github.com/user-attachments/assets/9120fec0-014f-444c-b8ba-0ca707fdf149" />
 
 ---
 
